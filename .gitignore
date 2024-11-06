@@ -1,1 +1,5 @@
 poker_venv/
+__pycache__/
+*.__pyc
+data/
+models/
